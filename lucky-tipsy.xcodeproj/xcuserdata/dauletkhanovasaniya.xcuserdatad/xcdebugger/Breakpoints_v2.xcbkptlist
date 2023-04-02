@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "38F3F347-2F85-42CA-8B37-C0851DD73C46"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47BD1232-8EE2-445E-A140-3FF6D8D649D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lucky-tipsy/Controllers/CalculatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "CalculatorViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "47BD1232-8EE2-445E-A140-3FF6D8D649D2 - dfb4b68990dbcb91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lucky_tipsy.CalculatorViewController.splitNumberLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "lucky-tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dauletkhanovasaniya/Desktop/lucky-tipsy/lucky-tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "47BD1232-8EE2-445E-A140-3FF6D8D649D2 - 8c66194af8fd6f85"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lucky_tipsy.CalculatorViewController.splitNumberLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "lucky-tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dauletkhanovasaniya/Desktop/lucky-tipsy/lucky-tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "47BD1232-8EE2-445E-A140-3FF6D8D649D2 - 347e5dbf08197092"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lucky_tipsy.CalculatorViewController.splitNumberLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "lucky-tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dauletkhanovasaniya/Desktop/lucky-tipsy/lucky-tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "47BD1232-8EE2-445E-A140-3FF6D8D649D2 - aad7313dfefef060"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lucky_tipsy.CalculatorViewController.splitNumberLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "lucky-tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dauletkhanovasaniya/Desktop/lucky-tipsy/lucky-tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "47BD1232-8EE2-445E-A140-3FF6D8D649D2 - 9ea0c0845d5db1c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lucky_tipsy.CalculatorViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; lucky_tipsy.CalculatorViewController"
+                  moduleName = "lucky-tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dauletkhanovasaniya/Desktop/lucky-tipsy/lucky-tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "47BD1232-8EE2-445E-A140-3FF6D8D649D2 - e8326493b8217ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lucky_tipsy.CalculatorViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;lucky_tipsy.CalculatorViewController&gt;"
+                  moduleName = "lucky-tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dauletkhanovasaniya/Desktop/lucky-tipsy/lucky-tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "232">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBAB5AC9-CBBD-435F-B74A-7B1FC7996DA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "lucky-tipsy/Controllers/CalculatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "CalculatorViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "EBAB5AC9-CBBD-435F-B74A-7B1FC7996DA4 - 4dee803f5aebf1fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lucky_tipsy.CalculatorViewController.twentyPctButton.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "lucky-tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dauletkhanovasaniya/Desktop/lucky-tipsy/lucky-tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "EBAB5AC9-CBBD-435F-B74A-7B1FC7996DA4 - 68ea1fd8595121ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lucky_tipsy.CalculatorViewController.twentyPctButton.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "lucky-tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dauletkhanovasaniya/Desktop/lucky-tipsy/lucky-tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "EBAB5AC9-CBBD-435F-B74A-7B1FC7996DA4 - 50f614c0cf015fe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lucky_tipsy.CalculatorViewController.twentyPctButton.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "lucky-tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dauletkhanovasaniya/Desktop/lucky-tipsy/lucky-tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "EBAB5AC9-CBBD-435F-B74A-7B1FC7996DA4 - 48296854abc1d55d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lucky_tipsy.CalculatorViewController.twentyPctButton.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "lucky-tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dauletkhanovasaniya/Desktop/lucky-tipsy/lucky-tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "EBAB5AC9-CBBD-435F-B74A-7B1FC7996DA4 - 9ea0c0845d5dbfd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lucky_tipsy.CalculatorViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; lucky_tipsy.CalculatorViewController"
+                  moduleName = "lucky-tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dauletkhanovasaniya/Desktop/lucky-tipsy/lucky-tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "EBAB5AC9-CBBD-435F-B74A-7B1FC7996DA4 - e8326493b82174f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "lucky_tipsy.CalculatorViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;lucky_tipsy.CalculatorViewController&gt;"
+                  moduleName = "lucky-tipsy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dauletkhanovasaniya/Desktop/lucky-tipsy/lucky-tipsy/Controllers/CalculatorViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "196">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
